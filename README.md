@@ -4,7 +4,7 @@
 
 ### 👩 It's me!
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=aeia208)](https://solved.ac/aeia208) <a href='https://twitter.com/crp9428'><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white'></a>
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=crp940208)](https://solved.ac/crp940208) <a href='https://twitter.com/crp9428'><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white'></a>
 <br>
 <a href='mailto:crp9428@naver.com'><img src='https://img.shields.io/badge/crp9428@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white'></a>
 <a href='mailto:crp940208@gmail.com'><img src='https://img.shields.io/badge/crp940208@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white'></a>
