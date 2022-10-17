@@ -12,10 +12,10 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=crp940208)](https://solved.ac/crp940208)<br>
 ![Chaerim's GitHub stats](https://github-readme-stats.vercel.app/api?username=crp9428&show_icons=true&theme=buefy)
-<br><br>
+<br><br><br>
 
 ### 👩 It's me!
-<a href='https://twitter.com/crp9428'><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white'></a> 
+<a href='https://twitter.com/crp940208'><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white'></a> 
 <a href='mailto:crp9428@naver.com'><img src='https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white'></a> 
 <a href='mailto:crp940208@gmail.com'><img src='https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white'></a> 
 <br><br>
